@@ -42,3 +42,6 @@ python3 -m torch.distributed.launch --nproc_per_node=8 --master_port 10078 PC_tr
   --model mc3lstm_cascade_audio \
   --resume path_to/checkpoint
   ```
+  
+  ## Model Zoo
+  链接: https://pan.baidu.com/s/1lx2KEUbKt9tR2RQH8RkzEw  密码: j32h
