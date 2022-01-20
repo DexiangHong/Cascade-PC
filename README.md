@@ -43,6 +43,6 @@ python3 -m torch.distributed.launch --nproc_per_node=8 --master_port 10078 PC_tr
   --resume path_to/checkpoint
   ```
   
-  ## Model Zoo
-  链接: https://pan.baidu.com/s/1IOAAKeZkHmurXmtAnVrl8A  密码: 31l1
+## Model Zoo
+链接: https://pan.baidu.com/s/1dhUoWX6bBT05E22WIioG8A  密码: 4h2a
 
